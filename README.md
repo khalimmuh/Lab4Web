@@ -1,5 +1,6 @@
 # LAPORAN PRAKTIKUM
 Persiapan membuat dokumen HTML dengan nama file **lab4_box.html** seperti berikut
+
 <img width="550" alt="doctype" src="https://user-images.githubusercontent.com/81312138/115150145-531c5580-a091-11eb-8909-512e2d77cf23.PNG">
 
 ## Membuat Box Element
@@ -14,6 +15,7 @@ elemen yang lainnya. Dengan konsep tersebut dapat dengan mudah menentukan posisi
 sebuah elemen HTML. Sehingga dalam membuat layout web dapat dengan mudah dilakukan. 
 Property yang digunakan untuk mendefinisikan adalah float dan clear
 Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seperti berikut.
+
 <img width="550" alt="div4_code" src="https://user-images.githubusercontent.com/81312138/115150192-9080e300-a091-11eb-943c-4496fe003fd2.PNG">
 <img width="550" alt="box_element" src="https://user-images.githubusercontent.com/81312138/115150335-14d36600-a092-11eb-8684-de4db11a7600.PNG">
 
